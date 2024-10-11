@@ -1,1 +1,1 @@
-# Credit-Card-Anamoly-Detection
+# Credit-Card-Anamaly-Detection
