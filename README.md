@@ -1,1 +1,1 @@
-# Credit-Card-Anamaly-Detection
+# Credit-Card-Anomaly-Detection
